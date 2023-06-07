@@ -1,0 +1,61 @@
+{
+    "__class__": "ListaVehiculo",
+    "vehiculo":[
+        {
+        "__class__": "Nuevo",
+        "__atributos__": {
+                "modelo":"Punto",
+                "puertas":5,
+                "color":"Negro",
+                "preciobase":190000,
+                "version":"Full"
+            }
+        },
+        {
+            "__class__": "Usado",
+            "__atributos__": {
+                "modelo": "Fiesta",
+                "puertas": 4,
+                "color": "Rojo",
+                "preciobase": 20000,
+                "marca": "Ford",
+                "patente": "abc 123",
+                "año": 2005,
+                "kilometraje": 19000
+            }
+        },
+        {
+            "__class__": "Usado",
+            "__atributos__": {
+                "modelo": "Saveiro",
+                "puertas": 4,
+                "color": "Rojo",
+                "preciobase": 40000,
+                "marca": "VolksWagen",
+                "patente": "cba 213",
+                "año": 2010,
+                "kilometraje": 120000
+            }
+        },
+        {
+            "__class__": "Nuevo",
+            "__atributos__": {
+                "modelo":"Palio",
+                "puertas":5,
+                "color":"Blanco",
+                "preciobase":59000,
+                "version":"Base"
+            }
+        },
+        {
+            "__class__": "Nuevo",
+            "__atributos__": {
+                "modelo":"Palio",
+                "puertas":5,
+                "color":"Negro",
+                "preciobase":59000,
+                "version":"Base"
+            }
+        }
+    ]
+}
