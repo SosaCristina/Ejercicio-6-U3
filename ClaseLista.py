@@ -1,6 +1,6 @@
-from zope.interface import implementer
+
 from ClaseNodo import Nodo
-from Interfaz import IColeccion
+
 from ClaseVehiculo import Vehiculo
 from ClaseUsado import Usado
 from ClaseNuevo import Nuevo
